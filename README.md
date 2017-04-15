@@ -1,3 +1,3 @@
-# Family Reward Token Dapp
+# Family Reward Token Ðapp
 
 Currently in development
